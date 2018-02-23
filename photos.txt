@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="my_styles.css">
+</head>
+<body>
+<img src="http://i68.tinypic.com/t4vbb9.jpg" alt="River" style="width:600px;height:450px;">
+<div>
+<img src="http://i66.tinypic.com/2q0ttt2.jpg" alt="Litter" style="width:600px;height:450px;">
+<div>
+<img src="http://i63.tinypic.com/n12id0.jpg" alt="Litter" style="width:600px;height:450px;">
+<div>
+<img src="http://i67.tinypic.com/21ajvrl.jpg" alt="Litter" style="width:600px;height:450px;">
+<div>
+<img src="http://i66.tinypic.com/2hy9w91.jpg" alt="Litter" style="width:600px;height:450px;">
+</body>
+
+</html>
